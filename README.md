@@ -63,5 +63,4 @@ graph TD
 ---
 *Developed for modern pet care management.*
 
----
-*New code will be push in few hours
+
