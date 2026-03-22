@@ -60,7 +60,5 @@ graph TD
     - `vaccination_view.py`: Vaccination tracking.
     - `medical_view.py`: Diagnosis and treatment logging.
 
----
-*Developed for modern pet care management.*
 
 
